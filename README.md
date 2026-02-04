@@ -1,12 +1,34 @@
-# React + Vite
+<img width="1900" height="867" alt="image" src="https://github.com/user-attachments/assets/cab797a6-07a0-4426-a13a-3dfef40e919a" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+👤Employee Management App (React + Axios)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Deployed on Vercel:
+https://pr-axios.vercel.app/
 
-## Expanding the ESLint configuration
+📌 Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The Employee Management App is a React-based CRUD application that demonstrates real-world API integration using Axios. It allows users to manage employee records with features such as viewing, adding, updating, and deleting employees through a clean and responsive interface.
+
+This project focuses on API handling, component-based architecture, and state-driven UI updates using modern React practices.
+
+
+🛠 Tech Stack
+
+- React (Vite)
+- Axios for API requests
+- React Router DOM
+- Redux Toolkit (configured for scalable state management)
+- HTML5 & CSS3
+- DummyJSON API for backend simulation
+
+✨ Features
+
+- Fetch employee data from REST API
+- Display employees in a structured table
+- Add new employee records
+- Update existing employee details
+- Delete employee records
+- Centralized API service using Axios
+- Clean and reusable component structure
+- Responsive UI suitable for desktop usage
